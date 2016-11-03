@@ -2,5 +2,5 @@
 
 int printer()
 {
-	return(printf("Hello Worlds-linux\n"));
+	return(printf("Hello Worlds-merged\n"));
 }
